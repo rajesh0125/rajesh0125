@@ -16,7 +16,7 @@ I'm **Rajesh Gupta**, a B.Tech CSE student passionate about **Data Analytics, Ne
 
 `Python` `Java` `SQL` `MySQL` `Excel` `Power BI`  
 `HTML` `CSS` `JavaScript` `React` `Git` `Linux`  
-`Kali Linux` `Nmap` `Wireshark` `Networking``AWS`
+`Kali Linux` `Nmap` `Wireshark` `Networking` `AWS`
 
 ## Projects
 

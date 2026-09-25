@@ -39,7 +39,7 @@ May 2025 – June 2025
 ## Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajesh-gupta-650979318/)
-- 🐙 [GitHub](https://github.com/rajesh0125/rajesh0125/)
+- 🐙 [GitHub](https://github.com/rajesh0125)
 - 📧 [Mail](rajeshgupta272205@gmail.com)
 
 ---
